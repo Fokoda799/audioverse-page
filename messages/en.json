@@ -1,0 +1,476 @@
+{
+  "metadata": {
+    "title": "AudioVerse — Listen. Learn. Imagine.",
+    "description": "Thousands of stories. One beautiful listening experience. Discover audiobooks, podcasts, and more with AudioVerse.",
+    "ogTitle": "AudioVerse — The Ultimate Audiobook Experience",
+    "ogDescription": "Listen to audiobooks anywhere with seamless playback, offline access, favorites, and a beautiful reading experience."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "screenshots": "Screenshots",
+    "faq": "FAQ",
+    "download": "Download",
+    "contact": "Contact",
+    "downloadApp": "Download App"
+  },
+  "hero": {
+    "notice": "Now Available on Google Play",
+    "headline": "Thousands of stories.\n One unforgettable listening experience.",
+    "subtitle": "Enjoy audiobooks and podcasts anywhere with seamless playback, offline listening, favorites, listening history, and a beautifully crafted experience.",
+    "ctaDownload": "Download App",
+    "ctaLearnMore": "Learn More"
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "A complete audiobook experience designed for modern listeners",
+    "unlimited": "Unlimited Audiobooks",
+    "unlimitedDesc": "Access thousands of audiobooks across every genre imaginable.",
+    "offline": "Offline Listening",
+    "offlineDesc": "Download your favorites and listen anywhere, even without internet.",
+    "continue": "Continue Listening",
+    "continueDesc": "Pick up right where you left off across all your devices.",
+    "bookmarks": "Bookmarks",
+    "bookmarksDesc": "Save and organize your favorite moments with ease.",
+    "favorites": "Favorites",
+    "favoritesDesc": "Build your personal library with one-tap favorites.",
+    "history": "Reading History",
+    "historyDesc": "Track your listening journey with detailed history.",
+    "categories": "Multiple Categories",
+    "categoriesDesc": "Explore fiction, non-fiction, self-help, and more.",
+    "player": "Beautiful Player",
+    "playerDesc": "An immersive player with sleep timer and speed control.",
+    "googleSignIn": "Google Sign-In",
+    "googleSignInDesc": "Quick and secure login with your Google account.",
+    "search": "Fast Search",
+    "searchDesc": "Find any book, author, or narrator in seconds.",
+    "darkMode": "Dark Mode",
+    "darkModeDesc": "Easy on the eyes with automatic dark mode support.",
+    "sync": "Cross-device Sync",
+    "syncDesc": "Your progress syncs seamlessly across all devices."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Get started in three simple steps",
+    "step1": "Discover",
+    "step1Desc": "Browse our vast library of audiobooks across every genre and find your next favorite story.",
+    "step2": "Listen",
+    "step2Desc": "Immerse yourself in crystal-clear audio with our beautiful, intuitive player.",
+    "step3": "Enjoy",
+    "step3Desc": "Bookmark moments, track progress, and build your personal listening library."
+  },
+  "screenshots": {
+    "title": "See It In Action",
+    "subtitle": "A beautiful interface designed for audiobook lovers",
+    "homeTitle": "Home",
+    "homeDesc": "Browse trending and recommended audiobooks",
+    "playerTitle": "Player",
+    "playerDesc": "Immersive audio player with controls",
+    "libraryTitle": "Library",
+    "libraryDesc": "Your personal collection organized",
+    "searchTitle": "Search",
+    "searchDesc": "Find any book in seconds",
+    "detailsTitle": "Details",
+    "detailsDesc": "Explore by genre and topic",
+    "prev": "Previous screenshot",
+    "next": "Next screenshot",
+    "goTo": "Go to screenshot"
+  },
+  "whyAudioVerse": {
+    "title": "Why AudioVerse?",
+    "subtitle": "See how we compare to traditional reading",
+    "audioVerse": "AudioVerse",
+    "features": "Features",
+    "traditional": "Traditional Reading",
+    "handsFree": "Hands-Free",
+    "anywhere": "Listen Anywhere",
+    "speedControl": "Speed Control",
+    "offline": "Offline Access",
+    "sync": "Cross-Device Sync",
+    "bookmarks": "Audio Bookmarks",
+    "multitask": "Multitask Friendly",
+    "eyeStrain": "No Eye Strain",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "testimonials": {
+    "title": "Loved by listeners",
+    "subtitle": "See what our community has to say"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about AudioVerse",
+    "q1": "Is AudioVerse free to use?",
+    "a1": "Yes! AudioVerse offers a free tier with access to thousands of audiobooks. We also offer a premium subscription for unlimited access to our entire library.",
+    "q2": "Can I listen offline?",
+    "a2": "Absolutely. You can download any audiobook to your device and listen without an internet connection. Perfect for commutes, flights, and travel.",
+    "q3": "Does it work on both iPhone and Android?",
+    "a3": "AudioVerse is currently available on Android via Google Play. Our iOS app is coming soon to the App Store.",
+    "q4": "How does cross-device sync work?",
+    "a4": "When you sign in with your Google account, your listening progress, bookmarks, and favorites automatically sync across all your devices in real-time.",
+    "q5": "Can I adjust playback speed?",
+    "a5": "Yes, our player supports speed adjustments from 0.5x to 3x, so you can listen at your perfect pace.",
+    "q6": "What categories are available?",
+    "a6": "We offer Fiction, Non-Fiction, Self-Help, Business, Science, History, Biography, Fantasy, Mystery, Romance, and many more genres."
+  },
+  "download": {
+    "title": "Start Listening Today",
+    "subtitle": "Download AudioVerse and transform your daily commute, workout, or relaxation time into an adventure.",
+    "googlePlay": "Get it on Google Play",
+    "appStore": "Coming Soon to App Store",
+    "qrCode": "Scan to Download"
+  },
+  "footer": {
+    "tagline": "Listen. Learn. Imagine.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "deleteAccount": "Delete Account",
+    "contact": "Contact",
+    "email": "hello@audioverse.app",
+    "copyright": "© {year} AudioVerse. All rights reserved."
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms of Service",
+    "deleteAccountTitle": "Delete Account",
+    "lastUpdated": "Last Updated: July 2026",
+    "backToHome": "Back to Home"
+  },
+  "legalMeta": {
+      "lastUpdated": "Last Updated: July 26, 2026"
+  },
+  "privacy": {
+    "privacyTitle": "Privacy Policy",
+    "privacy": {
+      "intro": {
+        "title": "Privacy Policy",
+        "body": "Welcome to AudioVerse (\"AudioVerse\", \"we\", \"our\", or \"us\"). Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and the choices you have regarding your information when using the AudioVerse mobile application and website. By using AudioVerse, you agree to the practices described in this Privacy Policy."
+      },
+      "accountInfo": {
+        "title": "1. Information We Collect",
+        "intro": "We collect only the information necessary to provide and improve our services.",
+        "subtitle": "Account Information",
+        "subIntro": "When you create an account, we may collect:",
+        "items": [
+          "Full name",
+          "Email address",
+          "Encrypted password (for email/password accounts)",
+          "Profile picture",
+          "Bio"
+        ],
+        "google": "If you sign in using Google, we receive basic profile information provided through your Google account, such as your name, email address, and profile picture."
+      },
+      "listeningInfo": {
+        "title": "2. Listening Information",
+        "intro": "To personalize your experience, AudioVerse stores:",
+        "items": [
+          "Favorites",
+          "Listening history",
+          "Recently played content",
+          "Playback progress",
+          "Saved preferences"
+        ],
+        "outro": "This information allows you to continue listening across devices and recover your progress after signing in."
+      },
+      "contentInfo": {
+        "title": "3. Content Information",
+        "intro": "AudioVerse provides access to:",
+        "items": [
+          "Licensed audiobooks",
+          "Licensed podcasts",
+          "Publicly available content from third-party APIs",
+          "Original AudioVerse content",
+          "User-uploaded content (when this feature becomes available)"
+        ],
+        "outro": "Content availability may change over time depending on licensing agreements and provider availability."
+      },
+      "usage": {
+        "title": "4. How We Use Your Information",
+        "intro": "We use your information to:",
+        "items": [
+          "Create and manage your account",
+          "Authenticate your identity",
+          "Synchronize your listening progress",
+          "Save your favorites",
+          "Display your profile",
+          "Improve application performance",
+          "Respond to support requests",
+          "Protect the platform against abuse and fraud"
+        ],
+        "outro": "We do not sell your personal information."
+      },
+      "authentication": {
+        "title": "5. Authentication",
+        "intro": "AudioVerse supports:",
+        "items": ["Email and password authentication", "Google Sign-In"],
+        "outro": "Authentication information is processed securely and passwords are stored in encrypted form."
+      },
+      "thirdParty": {
+        "title": "6. Third-Party Services",
+        "intro": "AudioVerse uses trusted third-party providers to deliver parts of our services. These providers may process limited information necessary to provide their services. Examples include:",
+        "items": ["Google Sign-In", "Cloudinary (media storage)", "Content providers and public APIs"],
+        "outro": "Each provider operates under its own privacy policy."
+      },
+      "analytics": {
+        "title": "7. Analytics",
+        "body": "AudioVerse does not use analytics services to track user behavior."
+      },
+      "crash": {
+        "title": "8. Crash Reporting",
+        "body": "AudioVerse currently does not use crash reporting services."
+      },
+      "cookies": {
+        "title": "9. Cookies",
+        "body": "The AudioVerse website does not use cookies for advertising or analytics. Essential technical functionality may rely on browser storage where required."
+      },
+      "security": {
+        "title": "10. Data Security",
+        "body": "We use reasonable technical and organizational measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of electronic storage or internet transmission is completely secure."
+      },
+      "retention": {
+        "title": "11. Data Retention",
+        "intro": "We retain your information only for as long as necessary to provide our services or comply with legal obligations. If you request account deletion:",
+        "items": [
+          "Your account becomes inactive immediately.",
+          "Your account enters a 30-day recovery period.",
+          "During this period you may restore your account by signing in again.",
+          "After 30 days, your account and associated personal information are permanently deleted, except where retention is required by law."
+        ]
+      },
+      "children": {
+        "title": "12. Children's Privacy",
+        "body": "AudioVerse is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information, please contact us so we can remove the information."
+      },
+      "rights": {
+        "title": "13. Your Rights",
+        "intro": "Depending on your location, you may have the right to:",
+        "items": [
+          "Access your personal information",
+          "Correct inaccurate information",
+          "Delete your account",
+          "Request removal of personal data",
+          "Withdraw consent where applicable"
+        ],
+        "outro": "You may exercise these rights by contacting us."
+      },
+      "changes": {
+        "title": "14. Changes to This Privacy Policy",
+        "body": "We may update this Privacy Policy from time to time. When significant changes are made, we will update the \"Last Updated\" date and may notify users through the application."
+      },
+      "contact": {
+        "title": "15. Contact Us",
+        "body": "If you have questions regarding this Privacy Policy, please contact us:",
+        "email": "Email: audioverse@abdellahnaithadid.dev"
+      }
+    }
+  },
+  "terms": {
+    "termsTitle": "Terms of Service",
+    "lastUpdated": "Last Updated: July 26, 2026",
+
+    "terms": {
+      "intro": {
+        "title": "Terms of Service",
+        "body": "Welcome to AudioVerse (\"AudioVerse\", \"we\", \"our\", or \"us\"). These Terms of Service (\"Terms\") govern your access to and use of the AudioVerse mobile application, website, and related services (collectively, the \"Services\"). By creating an account or using our Services, you agree to be bound by these Terms. If you do not agree, please do not use AudioVerse."
+      },
+      "eligibility": {
+        "title": "1. Eligibility",
+        "body": "You must be at least 13 years old to use AudioVerse. By using our Services, you represent that you have the legal capacity to enter into these Terms and comply with all applicable laws."
+      },
+      "account": {
+        "title": "2. Your Account",
+        "intro": "To access certain features, you may create an AudioVerse account using:",
+        "items": ["Email and password", "Google Sign-In"],
+        "subIntro": "You agree to:",
+        "subItems": [
+          "Provide accurate and up-to-date information.",
+          "Keep your login credentials secure.",
+          "Notify us immediately if you believe your account has been compromised.",
+          "Accept responsibility for all activity that occurs under your account."
+        ],
+        "outro": "You may not share your account with others."
+      },
+      "using": {
+        "title": "3. Using AudioVerse",
+        "intro": "AudioVerse allows you to discover and enjoy:",
+        "items": [
+          "Audiobooks",
+          "Podcasts",
+          "Licensed content",
+          "Publicly available content from trusted providers",
+          "Original AudioVerse content",
+          "User-generated content (when available)"
+        ],
+        "outro": "We grant you a limited, non-exclusive, non-transferable, revocable license to use our Services for personal and non-commercial purposes."
+      },
+      "ownership": {
+        "title": "4. Content Ownership",
+        "body": "Unless otherwise stated, all application designs, logos, branding, software, and original AudioVerse content belong to AudioVerse or its licensors. Some audiobooks and podcasts are provided under license from publishers or content providers. Some content may be obtained through publicly available APIs. Each content provider retains ownership of its respective intellectual property. Using AudioVerse does not transfer ownership of any content to you."
+      },
+      "userContent": {
+        "title": "5. Future User Content",
+        "intro": "AudioVerse may allow users to upload or publish content in future versions of the platform. If you upload content, you confirm that:",
+        "items": ["You own the rights to the content, or", "You have permission to publish it."],
+        "outro": "You remain responsible for everything you upload. By uploading content, you grant AudioVerse a non-exclusive license to store, display, and distribute that content as necessary to operate the Services."
+      },
+      "acceptableUse": {
+        "title": "6. Acceptable Use",
+        "intro": "You agree not to:",
+        "items": [
+          "Use AudioVerse for illegal purposes.",
+          "Attempt to gain unauthorized access to our systems.",
+          "Reverse engineer or modify the application.",
+          "Circumvent security measures.",
+          "Distribute malware or malicious code.",
+          "Interfere with other users' enjoyment of the Services.",
+          "Copy, redistribute, or commercially exploit licensed content without permission.",
+          "Impersonate another person or organization.",
+          "Use automated systems to scrape or download large amounts of content without authorization."
+        ]
+      },
+      "ip": {
+        "title": "7. Intellectual Property",
+        "body": "All trademarks, logos, branding, software, user interface designs, and original materials belonging to AudioVerse remain our exclusive property. Nothing in these Terms grants you permission to copy, modify, distribute, or reproduce our intellectual property except as expressly permitted by law."
+      },
+      "copyright": {
+        "title": "8. Copyright Complaints",
+        "intro": "We respect intellectual property rights. If you believe that content available through AudioVerse infringes your copyright, please contact us with:",
+        "items": [
+          "Your contact information.",
+          "A description of the copyrighted work.",
+          "The location of the allegedly infringing material.",
+          "A statement confirming your good-faith belief that the use is unauthorized."
+        ],
+        "outro": "We will investigate and take appropriate action where necessary."
+      },
+      "availability": {
+        "title": "9. Service Availability",
+        "intro": "We strive to provide a reliable service, but we cannot guarantee uninterrupted availability. We may:",
+        "items": ["Modify features.", "Update the application.", "Perform maintenance.", "Suspend or discontinue parts of the Services."],
+        "outro": "Whenever possible, we will minimize disruptions."
+      },
+      "suspension": {
+        "title": "10. Account Suspension and Termination",
+        "intro": "We may suspend or terminate accounts that:",
+        "items": ["Violate these Terms.", "Engage in fraudulent activity.", "Abuse the Services.", "Infringe the rights of others."],
+        "outro": "You may stop using AudioVerse at any time. You may also delete your account using the in-app account deletion feature."
+      },
+      "deletion": {
+        "title": "11. Account Deletion",
+        "intro": "AudioVerse allows users to delete their accounts directly within the application. To delete your account: Profile → Settings → Delete Your Account. When you request deletion:",
+        "items": [
+          "Your account becomes inactive immediately.",
+          "Your account enters a 30-day recovery period.",
+          "During this period, you may restore your account by signing in again.",
+          "After 30 days, your account and associated personal information are permanently deleted, except where retention is required by law."
+        ],
+        "outro": "For more information, please see our Account Deletion page."
+      },
+      "disclaimer": {
+        "title": "12. Disclaimer of Warranties",
+        "intro": "AudioVerse is provided on an \"as is\" and \"as available\" basis. To the fullest extent permitted by law, we disclaim all warranties, whether express or implied, including warranties of:",
+        "items": ["Merchantability", "Fitness for a particular purpose", "Non-infringement", "Continuous availability"],
+        "outro": "We do not guarantee that the Services will always be error-free or uninterrupted."
+      },
+      "liability": {
+        "title": "13. Limitation of Liability",
+        "body": "To the maximum extent permitted by law, AudioVerse and its affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the Services. Our total liability for any claim relating to the Services shall not exceed the amount you paid us for the Services during the twelve (12) months preceding the claim, if any."
+      },
+      "changes": {
+        "title": "14. Changes to These Terms",
+        "body": "We may update these Terms from time to time. When material changes are made, we will update the Last Updated date and may notify users through the application or website. Continued use of AudioVerse after changes become effective constitutes acceptance of the revised Terms."
+      },
+      "governingLaw": {
+        "title": "15. Governing Law",
+        "body": "These Terms shall be governed by and interpreted in accordance with the applicable laws of the jurisdiction in which AudioVerse operates, unless otherwise required by applicable consumer protection laws."
+      },
+      "contact": {
+        "title": "16. Contact Us",
+        "body": "If you have questions regarding these Terms of Service, please contact us:",
+        "email": "Email: audioverse@abdellahnaithadid.dev"
+      }
+    }
+  },
+  "deleteAccount": {
+    "deleteAccountTitle": "Delete Account",
+    "deleteAccount": {
+      "intro": {
+        "title": "Delete Your AudioVerse Account",
+        "body": "We're sorry to see you go. AudioVerse allows you to delete your account directly from within the application. Before deleting your account, please read the information below to understand how the process works and what happens to your data."
+      },
+      "howTo": {
+        "title": "How to Delete Your Account",
+        "intro": "You can request account deletion at any time by following these steps:",
+        "steps": [
+          "Open AudioVerse.",
+          "Go to Profile.",
+          "Tap Settings (top-right corner).",
+          "Select Delete Your Account.",
+          "Follow the on-screen confirmation steps."
+        ],
+        "outro": "Once confirmed, your account will immediately enter the deletion process."
+      },
+      "afterRequest": {
+        "title": "What Happens After You Request Deletion",
+        "intro": "When you request account deletion:",
+        "items": [
+          "Your account is immediately deactivated.",
+          "You will no longer be able to use your account normally.",
+          "Your account enters a 30-day recovery period.",
+          "During these 30 days, your account and data remain securely stored but inaccessible to others."
+        ],
+        "outro": "This recovery period allows you to change your mind if the deletion request was made accidentally."
+      },
+      "recovering": {
+        "title": "Recovering Your Account",
+        "intro": "If you decide to keep your account, simply sign in again within 30 days using your original login method. Restoring your account during this period will:",
+        "items": [
+          "Cancel the deletion request.",
+          "Restore your profile.",
+          "Restore your favorites.",
+          "Restore your listening history.",
+          "Restore your saved preferences."
+        ],
+        "outro": "No data will be lost if your account is restored before the recovery period ends."
+      },
+      "permanentDeletion": {
+        "title": "Permanent Deletion",
+        "body": "If your account is not restored within 30 days, it will be permanently deleted. This process cannot be reversed. After permanent deletion, your personal information, profile, favorites, listening history, and associated account data will be removed from our systems, except where retention is required by applicable law."
+      },
+      "dataDeleted": {
+        "title": "What Data Is Deleted",
+        "intro": "When permanent deletion is completed, the following information is removed:",
+        "items": [
+          "Account information",
+          "Name",
+          "Email address",
+          "Profile picture",
+          "Bio",
+          "Favorites",
+          "Listening history",
+          "Playback progress",
+          "Saved preferences"
+        ]
+      },
+      "dataRetained": {
+        "title": "Data That May Be Retained",
+        "intro": "Certain limited information may be retained when required to:",
+        "items": [
+          "Comply with legal obligations.",
+          "Resolve disputes.",
+          "Prevent fraud or abuse.",
+          "Enforce our Terms of Service."
+        ],
+        "outro": "Any retained information will be stored only for as long as required by applicable law."
+      },
+      "help": {
+        "title": "Need Help?",
+        "body": "If you're unable to access your account or experience problems during the deletion process, we're happy to help. Contact us at:",
+        "email": "Email: audioverse@abdellahnaithadid.dev",
+        "outro": "We typically respond to support requests as quickly as possible."
+      }
+    }
+  }
+}
