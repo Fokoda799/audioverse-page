@@ -1,10 +1,25 @@
 import { LegalLayout } from "@/components/legal/LegalLayout";
 import { LegalSection } from "@/components/legal/LegalSection";
-import { getTranslations } from "next-intl/server";
+import { locales, type Locale } from "@/lib/i18n";
+import { getTranslations, setRequestLocale } from "next-intl/server";
+import { notFound } from "next/navigation";
 
-export default async function PrivacyPage() {
-  const t = await getTranslations("privacy");
-  const lm = await getTranslations("legalMeta");
+export default async function PrivacyPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+
+  if (!locales.includes(locale as Locale)) {
+    notFound();
+  }
+
+  const appLocale = locale as Locale;
+  setRequestLocale(appLocale);
+
+  const t = await getTranslations({ locale: appLocale, namespace: "privacy" });
+  const lm = await getTranslations({ locale: appLocale, namespace: "legalMeta" });
 
   const sections = [
     "accountInfo",
