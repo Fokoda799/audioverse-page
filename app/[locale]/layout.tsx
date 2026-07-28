@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Inter, IBM_Plex_Sans_Arabic } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -7,20 +6,6 @@ import { locales, type Locale } from "@/lib/i18n";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { GlowCursor } from "@/components/GlowCursor";
 import { ConditionalChrome } from "@/components/ConditionalChrome";
-import "../globals.css";
-
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-  display: "swap",
-});
-
-const ibmPlexSansArabic = IBM_Plex_Sans_Arabic({
-  subsets: ["arabic"],
-  weight: ["300", "400", "500", "600", "700"],
-  variable: "--font-ibm-plex-arabic",
-  display: "swap",
-});
 
 const baseMetadata: Metadata = {
   metadataBase: new URL("https://audioverse.abdellahnaithadid.dev"),
@@ -134,28 +119,16 @@ export default async function LocaleLayout({
   const messages = await getMessages({ locale: appLocale });
 
   return (
-    <html
-      lang={appLocale}
-      dir={appLocale === "ar" ? "rtl" : "ltr"}
-      className={`${inter.variable} ${ibmPlexSansArabic.variable}`}
-      suppressHydrationWarning
-    >
-      <body
-        className="min-h-screen font-sans"
-        suppressHydrationWarning
+    <NextIntlClientProvider messages={messages} locale={appLocale}>
+      <ThemeProvider
+        attribute="class"
+        defaultTheme="system"
+        enableSystem
+        disableTransitionOnChange={false}
       >
-        <NextIntlClientProvider messages={messages} locale={appLocale}>
-          <ThemeProvider
-            attribute="class"
-            defaultTheme="system"
-            enableSystem
-            disableTransitionOnChange={false}
-          >
-            <GlowCursor />
-            <ConditionalChrome>{children}</ConditionalChrome>
-          </ThemeProvider>
-        </NextIntlClientProvider>
-      </body>
-    </html>
+        <GlowCursor />
+        <ConditionalChrome>{children}</ConditionalChrome>
+      </ThemeProvider>
+    </NextIntlClientProvider>
   );
 }
